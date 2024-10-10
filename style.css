@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Quantico", sans-serif;
+}
+
+.header{
+    width: 1273px;
+    background: #272C3D;
+    box-shadow: 0px 0px 10px #00000080;
+    margin: 0 auto;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25.46px;
+}
+
+.navbar ul li{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: #FFFFFF;
+    padding: 25.46px 21px;    
+}
+
+.span{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    padding-top: 21px;
+    color: #FF9C28;
+}
+
+.button{
+    width: 241.87px;
+    height: 30px;
+    border-radius: 5px ;  
+    background: #404864;
+    padding-left: 208px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: none;
+    margin-right: 210px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.con{
+    background-image: url(Bg.png);
+    width: 1273px;
+    height: 554px;
+    margin: 0 auto;
+}
+
+.co{
+    margin: 0 auto;
+}
+
+.main{
+    width: 1273px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+
+.kartinka{
+    display: flex;
+    gap: 41.60px;
+    padding: 15px 80px;
+}
+
+.text h2{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 45.76px;
+    padding: 21px 500px;
+    color:  #FFFFFF;
+}
+
+.c{
+    margin: 0 auto;
+    width: 1189px;
+    height: 928px;
+    background: #1B1E27;
+}
+
+.cc{
+    display: flex;
+    gap: 17px;
+}
+
+.card{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 245px;
+}
+
+.right img{
+    padding-top: 30px;
+    padding-left: 245px;
+}
+
+.text3 h2{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    color: white;
+    padding-left: 245px;
+    padding-top: 61px;
+}
+
+.left p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: #BFBFBF;
+    padding-top: 30px;
+    width: 324px;
+    padding-left: 17px;
+ }
+
+ .tex p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: #BFBFBF;
+    padding-top: 5px;
+    padding-left: 17px;
+ }
+
+ .bb{
+    display: flex;
+    gap: 17px;
+    margin-top: 142px 0;
+ }
+
+ .card1{
+    display: flex;
+    gap: 17px;
+    margin-top: 142px 0;
+    margin-right: 226px;
+ }
+
+.right1 img{
+    padding-top: 30px;
+    padding-left: 226px;
+}
+
+ .text4 h2{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    color: #FFFFFF;
+    padding-left: 226px;
+    padding-top: 142px;
+ }
+
+ .left1 p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: #BFBFBF;
+    padding-top: 30px;
+    width: 324px;
+    padding-left: 17px;
+ }
+
+ .tex1 p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: #BFBFBF;
+    padding-top: 5px;
+    padding-left: 17px;
+ }
+
+.footer{
+    background: #272C3D;
+    width: 1273px;
+    margin: 0 auto;
+}
+
+ .nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25.45px;
+ }
+
+ .nav ul li{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: #FFFFFF;
+    padding: 20px 42px;
+ }
+
+ .span1{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    padding-top: 21px;
+    color: #FF9C28;
+ }
+
+ .nav img{
+    padding: 22px 42px;
+ }
